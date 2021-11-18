@@ -1,0 +1,30 @@
+_repo: Ascanio-The-romances-of-Alexandre-Dumas-Volume-XI_66620
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    - père, Alexandre Dumas
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+    - https://fr.wikipedia.org/wiki/Alexandre_Dumas
+description: ''
+gutenberg_issued: '2021-10-27'
+identifiers:
+  gutenberg: '66620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ascanio
+
+  The romances of Alexandre Dumas, Volume XI'
+url: http://www.gutenberg.org/ebooks/66620
